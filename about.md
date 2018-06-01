@@ -3,13 +3,9 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+A place where I write about topics in my research/ area of expertise.
 
-Reasons:
-- its great.
-- its a test.
 
 ## Other thoughts
 
-This is great.
+I have a Bachelors degree in Computer Science from the University of British Columbia. 

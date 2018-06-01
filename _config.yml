@@ -45,12 +45,12 @@
 
 
 # basic options
-title: Your awesome title
-author: GitHub User
+title: Sid's Blog
+author: Siddharth Mukkamala
 email: your-email@domain.com
-description: A wonderful site
-twitter_username: jekyllrb
-github_username:  jekyll
+description: A blog where I write on topics in my research/ field of expertise
+#twitter_username: jekyllrb
+github_username:  sidp95
 
 # Build settings
 markdown: kramdown
